@@ -1,4 +1,8 @@
 # face-detection
+its just a face detection not recognition 
+- it can detect faces, capture them and add them with a name in a database <br/>
+- you can also change cascade_file to detect other stuff<br/>
+
 ![Screenshot 2024-09-13 164652](https://github.com/user-attachments/assets/3bcee6ae-e786-4d50-a2a0-6ceb99ab6e7e)
 <br/><hr/>
 ![Screenshot 2024-09-13 165409](https://github.com/user-attachments/assets/ed0bfc89-aaa6-4544-ab77-46eae76b1341)
